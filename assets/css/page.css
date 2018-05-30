@@ -24,6 +24,10 @@ ul, ol, dl {
 	font-size: 0.875rem;
 }
 
+small {
+	font-size: 80%;
+}
+
 .larajobs-text {
 	padding-top: 10px;
 	font-size: 10pt;
