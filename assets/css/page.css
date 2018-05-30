@@ -93,11 +93,19 @@ img.larajobs-logo {
 
 @media only screen and (max-width: 28.061em) {
 	.top-bar .name h1 a {
+        width: 90%;
 		font-size: 75%;
 	}
 }
 
-@media only screen and (max-width: 24.061em) {
+@media only screen and (max-width: 22.061em) {
+    .top-bar .name h1 a {
+        font-size: 68%;
+    }
+}
+
+
+@media only screen and (max-width: 19.999em) {
 	.top-bar .name h1 a {
 		display: none;
 	}
