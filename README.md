@@ -21,4 +21,4 @@
 [CSDD eksāmens treniņam](http://csnt.csdd.lv/)
 
 
-_**!!! Konspektam ir tikai informātība nozīme.**_
+_**!!! Konspektam ir tikai informātīva nozīme.**_
